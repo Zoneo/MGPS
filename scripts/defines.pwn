@@ -4,6 +4,8 @@
 
 /* General */
 #define scriptVersion "v0.0.1"
+#define scriptName_Short "MGPS"
+#define scriptName_Long "Magnet Gaming Party Server"
 /*---------*/
 
 /* Colours */
@@ -39,7 +41,6 @@
 #define COLOUR_OLIVE 0x808000AA
 #define COLOUR_ORANGERED 0xFF4500AA
 #define COLOUR_PINK 0xFFC0CBAA 
-#define COLOUR_SEAGREEN 0x2E8B57AA
 #define COLOUR_SPRINGGREEN 0x00FF7FAA
 #define COLOUR_TOMATO 0xFF6347AA 
 #define COLOUR_YELLOWGREEN 0x9ACD32AA 
@@ -80,7 +81,6 @@
 #define EMBED_COLOUR_OLIVE "808000"
 #define EMBED_COLOUR_ORANGERED "FF4500"
 #define EMBED_COLOUR_PINK "FFC0CB" 
-#define EMBED_COLOUR_SEAGREEN "2E8B57"
 #define EMBED_COLOUR_SPRINGGREEN "00FF7F"
 #define EMBED_COLOUR_TOMATO "FF6347" 
 #define EMBED_COLOUR_YELLOWGREEN "9ACD32" 

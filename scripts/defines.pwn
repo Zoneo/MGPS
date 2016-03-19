@@ -3,7 +3,7 @@
 /* ----------------------------------------------------- Defines ------------------------------------------------------ */
 
 /* General */
-#define scriptVersion "v0.0.1"
+#define scriptVersion "v0.0.2"
 #define scriptName_Short "MGPS"
 #define scriptName_Long "Magnet Gaming Party Server"
 /*---------*/

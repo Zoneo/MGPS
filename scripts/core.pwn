@@ -40,6 +40,7 @@ public OnPlayerDisconnect(playerid, reason) {
 	format(publicLeavingMessage, sizeof(publicLeavingMessage), "[Server] %s (ID: %d) has left the server!", GetName(playerid), playerid);
 	SendClientMessageToAll(COLOUR_YELLOW, publicLeavingMessage);
 	logEvent("PlayerDisconnect", "OnPlayerDisconnect", publicLeavingMessage);
+	return 1;
 }
 
 public OnGameModeExit() {
